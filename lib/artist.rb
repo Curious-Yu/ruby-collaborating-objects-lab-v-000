@@ -23,7 +23,8 @@ class Artist
     song.artist = self
   end
 
-  def 
+  def find_or_create_by_name(name)
+    
 
 
 end
